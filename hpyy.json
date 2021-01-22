@@ -2,15 +2,15 @@
 	"GuideData": {
 		"AdsController": {
 			"NetworkAds": "admob",
-			"AdMobId": "ca-app-pub-9255945085384687~7546257849",
+			"AdMobId": "ca-app-pub-6810938396743480~5971707320",
 
-			"BannerAdmob": "ca-app-pub-9255945085384687/4477241379",
-			"InterstitialAdmob": "ca-app-pub-9255945085384687/2206301253",
-			"NativeAdmob": "ca-app-pub-9255945085384687/8388566229",
+			"BannerAdmob": "ca-app-pub-6810938396743480/4658625656",
+			"InterstitialAdmob": "ca-app-pub-6810938396743480/2703380308",
+			"NativeAdmob": "ca-app-pub-6810938396743480/8605625431",
 
-			"BannerFacebook": "1247136872326136_1247137238992766",
-			"InterstitialFacebook": "1247136872326136_1247137645659392",
-			"NativeFacebook": "1247136872326136_1247137438992746",
+			"BannerFacebook": "492921975439863_492922362106491",
+			"InterstitialFacebook": "492921975439863_492923265439734",
+			"NativeFacebook": "492921975439863_492922922106435",
 			"ImageBanner": false,
 			"ImageBannerImg": "https://linkkt/imh.jpg",
 			"ImageBannerURL": "https://www.linkk.com"
